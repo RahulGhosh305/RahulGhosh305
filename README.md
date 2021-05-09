@@ -12,7 +12,7 @@
 
 ## 💬  About ME
 
-<p><i>I'm <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> to learn new technologies. As a web developer, I always keen to update myself with web technologies. I have completed my B.Sc in Computer Science and Technology from Bangladesh Army International University of Science and Technology <b>(BAIUST)</b>.</i></p>
+### <i>I'm <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> to learn new technologies. As a web developer, I always keen to update myself with web technologies. I have completed my B.Sc in Computer Science and Technology from Bangladesh Army International University of Science and Technology <b>(BAIUST)</b>.</i>
 
 <br/>
 
