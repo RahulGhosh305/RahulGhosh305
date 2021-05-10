@@ -41,6 +41,65 @@
 
 <br/>
 
+<!-- start work experience section -->
+## :office: Experience and Projects 
+
+<details>
+<summary><b> My Work Experience </b></summary>
+<table>
+  <thead>
+    <tr>
+      <th>Job Name</th>
+      <th>Roles & responsibilities</th>
+      <th>Duration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align='center'><b>Web Designer (Internship)</b></td>
+      <td>
+         Implemented front-end design, mobile responsive, and landing pages web applications.
+         Integrate different features and user interfaces on the website.
+      </td>
+      <td>July, 2020 - August, 2020</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+<!-- end work experience section -->
+
+<!-- start work project section -->
+<details>
+<summary><b> My Latest Projects </b></summary>
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Skills used</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://ever-cleaner.web.app/'>Ever Cleaner</a></td>
+      <td>MERN Stack</td>
+      <td>A Cleaning Service Organization.</td>
+    </tr>
+    <tr>
+      <td><a href="https://store-house-d23ac.web.app/">Store Hose</a></td>
+      <td>MERN Stack</td>
+      <td>A Grocery Site</td>
+    </tr>
+    <tr>
+      <td><a href='https://rahulghosh305.github.io/architecture_layout/'>Maxitecture</a></td>
+      <td>HTML5, CSS3, Bootstrap4, Jquery-plugin</td>
+      <td>An Architechture landing page desing.</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+<!-- end work project section -->
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RahulGhosh305&show_icons=true&locale=en&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" height='200' alt="Rahul"/></p>
@@ -55,7 +114,7 @@
 </div>
 
 
-Credits: [Rahul-Ghosh](https://github.com/RahulGhosh305)
+Credits: [Rahul-Ghosh](https://github.com/RahulGhosh305) :octocat:
 
 <i>Last Edited on: 10/05/2021</i>
 
