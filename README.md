@@ -105,6 +105,11 @@
       <td>HTML5, SCSS, Bootstrap4, Jquery-plugin</td>
       <td>Restaurant landing page desing.</td>
     </tr>
+    <tr>
+      <td><a href='https://rahulghosh305.github.io/Normal_Email_template/'>I-Tech Education</a></td>
+      <td>HTML5, Inline CSS</td>
+      <td>Email Template Design for email marketing</td>
+    </tr>
   </tbody>
 </table>
 </details>
