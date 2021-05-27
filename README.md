@@ -96,6 +96,11 @@
       <td>An Architechture landing page desing.</td>
     </tr>
     <tr>
+      <td><a href='https://rahulghosh305.github.io/smart_it/'>Smart It</a></td>
+      <td>HTML5, CSS3, Bootstrap4, Jquery-plugin</td>
+      <td>It company landing page desing.</td>
+    </tr>
+    <tr>
       <td><a href='https://rahulghosh305.github.io/restaurant_sass_project/'>Foodies</a></td>
       <td>HTML5, SCSS, Bootstrap4, Jquery-plugin</td>
       <td>Restaurant landing page desing.</td>
