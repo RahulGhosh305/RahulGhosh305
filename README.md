@@ -80,6 +80,11 @@
     </tr>
   </thead>
   <tbody>
+     <tr>
+      <td><a href='https://dingo-restaurant-rg.web.app/'>Dingo Restaurant</a></td>
+      <td>MERN Stack</td>
+      <td>Full Stack Restaurant Website</td>
+    </tr>
     <tr>
       <td><a href='https://ever-cleaner.web.app/'>Ever Cleaner</a></td>
       <td>MERN Stack</td>
