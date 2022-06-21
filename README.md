@@ -85,6 +85,11 @@
       <td>MERN Stack</td>
       <td>Full Stack Restaurant Website</td>
     </tr>
+     <tr>
+      <td><a href='https://travelez-c91e7.web.app/'>Travelez</a></td>
+      <td>MERN Stack</td>
+      <td>Full Stack Travel Website</td>
+    </tr>
     <tr>
       <td><a href='https://ever-cleaner.web.app/'>Ever Cleaner</a></td>
       <td>MERN Stack</td>
