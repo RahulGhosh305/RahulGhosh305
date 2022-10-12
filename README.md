@@ -50,6 +50,7 @@
   <thead>
     <tr>
       <th>Job Name</th>
+      <th>Company</th>
       <th>Roles & responsibilities</th>
       <th>Duration</th>
     </tr>
