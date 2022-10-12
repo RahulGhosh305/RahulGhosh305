@@ -56,7 +56,7 @@
   </thead>
   <tbody>
   <tr>
-      <td align='center'><b>Web Designer (4 Month Internship)</b></td>
+      <td align='center'><b>MERN Stack Developer (4 Month Internship)</b></td>
       <td align='center'><b>Turtle Venture, Dhaka</b></td>
       <td>
           Assist to <i>Senior Developer</i> during intern period for developed more than two in-house projects.
