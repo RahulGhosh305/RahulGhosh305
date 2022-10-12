@@ -1,7 +1,7 @@
 -----
 <div align="center">
 <h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">, I'm Rahul Ghosh</h1>
-<h3>Front end developer || React Developer</h3>
+<h3>MERN Stack Developer || React Developer</h3>
 
 <a href="https://rahul-ghosh.web.app"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-7CB342?style=for-the-badge&logo=koding&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/rahul-ghosh555/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
@@ -56,18 +56,21 @@
   </thead>
   <tbody>
   <tr>
-      <td align='center'><b>Web Designer (Internship)</b></td>
+      <td align='center'><b>Web Designer (4 Month Internship)</b></td>
+      <td align='center'><b>Turtle Venture, Dhaka</b></td>
       <td>
-         Implemented front-end design, mobile responsive, and landing pages web applications.
-         Integrate different features and user interfaces on the website.
+          Assist to <i>Senior Developer</i> during intern period for developed more than two in-house projects.
+          Perform to designing user interfaces, API integate and other tasks as assigned by the supervisor.
+          Implemented front-end design, mobile responsive web applications.
       </td>
-      <td>July, 2020 - August, 2020</td>
+      <td>15 June, 2022 - 15 October, 2022</td>
     </tr>
     <tr>
-      <td align='center'><b>Web Designer (Internship)</b></td>
+      <td align='center'><b>Web Designer (3 Month Internship)</b></td>
+      <td align='center'><b>BAIUST</b></td>
       <td>
-         Implemented front-end design, mobile responsive, and landing pages web applications.
-         Integrate different features and user interfaces on the website.
+          Implemented front-end design, mobile responsive, and landing pages web applications.
+          Integrate different features and user interfaces on the website.
       </td>
       <td>July, 2020 - August, 2020</td>
     </tr>
@@ -148,7 +151,7 @@
 
 Credits: [Rahul-Ghosh](https://github.com/RahulGhosh305) :octocat:
 
-<i>Last Edited on: 10/05/2021</i>
+<i>Last Edited on: 15/10/2022</i>
 
 -----
 
