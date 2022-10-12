@@ -55,6 +55,14 @@
     </tr>
   </thead>
   <tbody>
+  <tr>
+      <td align='center'><b>Web Designer (Internship)</b></td>
+      <td>
+         Implemented front-end design, mobile responsive, and landing pages web applications.
+         Integrate different features and user interfaces on the website.
+      </td>
+      <td>July, 2020 - August, 2020</td>
+    </tr>
     <tr>
       <td align='center'><b>Web Designer (Internship)</b></td>
       <td>
